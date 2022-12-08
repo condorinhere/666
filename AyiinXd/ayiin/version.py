@@ -1,2 +1,2 @@
-__version__ = "14.06.22"
-ayiin_version = "0.3"
+__version__ = "66.66.66"
+666_version = "6.6"
