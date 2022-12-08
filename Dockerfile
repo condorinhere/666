@@ -1,7 +1,3 @@
-#==============×==============#
-#      Created by: Alfa-Ex
-#=========× AyiinXd ×=========#
-
 FROM ayiinxd/ayiin-userbot:buster
 
 RUN git clone -b Ayiin-Userbot https://github.com/AyiinXd/Ayiin-Userbot /home/ayiinuserbot/ \
