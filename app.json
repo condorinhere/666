@@ -2,7 +2,7 @@
   "name": "⋆ 666 ⋆",
   "logo": "https://telegra.ph/file/408aba7f57c3cff985e0c.jpg",
   "keywords": ["telegram", "userbot", "modular", "python"],
-  "repository": "https://github.com/AyiinXd/Ayiin-Userbot",
+  "repository": "https://github.com/condorinhere/666",
   "stack": "container",
   "env": {
     "API_KEY": {
